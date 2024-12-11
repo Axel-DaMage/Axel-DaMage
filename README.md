@@ -1,4 +1,5 @@
 Hello! I am Axel, currently studing Informatics Engineering
 
 -based in Chile, Santiago 🇨🇱
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3431766" style='border:none;'></iframe>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/d4mag3.png" alt="Your Image Badge" />
