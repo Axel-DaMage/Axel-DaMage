@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: d4mag3/tryhackme-badge-workflow@main
+      - uses: Axel-DaMage/tryhackme-badge-workflow@main
         with:
           username: "d4mag3"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
