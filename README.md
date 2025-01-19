@@ -9,5 +9,4 @@ Hey there, i am Axel, currently studing Full-Stack Development and doing sum pro
 
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![tryhackme stats](https://raw.githubusercontent.com/d4mag3/d4mag3/master/assets/thm_propic.png)
 <h1></h1>
