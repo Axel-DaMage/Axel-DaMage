@@ -2,7 +2,7 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    - cron: '* * * 1 *'
+    - cron: '* 1 * * *'
   workflow_dispatch:
 jobs:
   tryhackme-badge-update:
