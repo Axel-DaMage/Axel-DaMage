@@ -6,6 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,bash,mysql,aws,python,git,github,arch,linux)](https://skillicons.dev)
 
 ## Stats 🏴‍☠️
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=190 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD\&layout=compact&langs_count=8&card_width=30" />
+</a>
