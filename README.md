@@ -8,8 +8,8 @@
 ## Stats 🏴‍☠️
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD\&layout=compact&langs_count=8&card_width=30" />
+  <img height=160 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD\&layout=compact&langs_count=8&card_width=30" />
 </a>
