@@ -1,4 +1,5 @@
-![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Status) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Listening&fallback=404!)](https://api.statusbadges.me/openspotify/732363812337877072)
+![Static Badge](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
+![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Status) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Listening&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 ---
 <a href="https://readme-typing-svg.demolab.com">
@@ -10,7 +11,8 @@
 ‎ 
 
 ##  (◣ _ ◢)‎ ‎ ‎ ‎ ‎ ‎ ‎
-### ¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.
+### ¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
+Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
 ## Sk1lls
 ###  |   Front   |    Back    |   Cloud   |     IDE    |       OS         | 
 <a href="https://skillicons.dev">
