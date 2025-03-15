@@ -11,7 +11,7 @@
 ##  (◣ _ ◢)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### ¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.
 ## Sk1lls 
-### |   Front   |    Back    |   Cloud   |   IDE    |      OS       |     Learning 📚️
+### |   Front   |    Back    |   Cloud   |    IDE    |       OS        |     Learning 📚️
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
 </a>
