@@ -1,3 +1,4 @@
+![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 ---
 <a href="https://readme-typing-svg.demolab.com">
@@ -11,7 +12,7 @@
 ##  (◣ _ ◢)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### ¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.
 ## Sk1lls 
-### |   Front   |    Back    |   Cloud   |     IDE    |       OS         |     Learning 📚️
+###  |   Front   |    Back    |   Cloud   |     IDE    |       OS         |
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
 </a>
@@ -19,7 +20,7 @@
   <img height=114 align="top" src="https://skillicons.dev/icons?i=java,spring,python,bash&perline=2" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=52 align="top" src="https://skillicons.dev/icons?i=aws,mysql&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
 </a>
 <a href="https://skillicons.dev">
   <img height=52 align="top" src="https://skillicons.dev/icons?i=idea,vscode&perline=2" />
