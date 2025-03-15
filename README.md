@@ -10,13 +10,28 @@
 
 ##  (◣ _ ◢)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 ### ¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.
-### Sk1lls
-[![SK1LL5](https://skillicons.dev/icons?i=html,css,java,bash,mysql,aws,python,git,github,arch,linux)](https://skillicons.dev)
+## Sk1lls 
+### |  Front  |   Back   |   Cloud  |   IDE    |      OS       |     Learning 📚️
+<a href="https://skillicons.dev">
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=114 align="top" src="https://skillicons.dev/icons?i=java,spring,python,bash&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=52 align="top" src="https://skillicons.dev/icons?i=aws,mysql&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=52 align="top" src="https://skillicons.dev/icons?i=idea,vscode&perline=2" />
+</a>
+<a href="https://skillicons.dev">
+  <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,mint,kali,windows&perline=3" />
+</a>
 
 ## Stats 🏴‍☠️
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut" />
+  <img height=240 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD\&layout=compact&langs_count=8&card_width=30" />
+  <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
