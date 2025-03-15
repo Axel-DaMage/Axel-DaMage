@@ -1,4 +1,4 @@
-![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Estatus) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Musica&fallback=404!)](https://api.statusbadges.me/openspotify/732363812337877072)
+![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Status) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Listening&fallback=404!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 ---
 <a href="https://readme-typing-svg.demolab.com">
