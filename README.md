@@ -11,7 +11,7 @@
 ‎ 
 ‎
 ##  (◣ _ ◢)‎
-##¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
+## ¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
 Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
 ## Sk1lls
 ###  |   Front   |    Back    |   Cloud   |     IDE    |       OS         | 
