@@ -1,4 +1,3 @@
-![Static Badge](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
 ![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Status) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Listening&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 ---
@@ -38,3 +37,5 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=210 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
+
+![Static Badge](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
