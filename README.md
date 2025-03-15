@@ -14,7 +14,8 @@
 ## ¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
 Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
 ## Sk1lls
-###  |   Front   |    Back    |   Cloud   |     IDE    |       OS         | 
+###  ![Static Badge](https://img.shields.io/badge/Front%20end-ff0066?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/Back%20end-130052?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/Cloud-ee00ff?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/IDE-e4ff00?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/OS-90ff99?style=for-the-badge)
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
 </a>
