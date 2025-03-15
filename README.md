@@ -9,10 +9,10 @@
 ‎ 
 ‎ 
 
-##  (◣ _ ◢)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-### ¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.
-## Sk1lls 
-###  |   Front   |    Back    |   Cloud   |     IDE    |       OS         |
+<h2>(◣ _ ◢)</h2>
+<h3>¡Hola! Me llamo Axel y soy un estudiante FullStack developer, bienvenido/a a mi pedazo de internet.</h3>
+<h2>Sk1lls</h2>
+<h3>| Front | Back | Cloud | IDE | OS |</h3>
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
 </a>
