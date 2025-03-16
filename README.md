@@ -32,7 +32,7 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
   <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,mint,kali,windows&perline=3" />
 </a>
 
-## Stats 🏴‍☠️
+## St4ts
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000" />
 </a>
