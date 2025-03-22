@@ -14,7 +14,7 @@
 ## ¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
 Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
 ## Sk1lls
-  ![Static Badge](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Static Badge](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Static Badge](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![Static Badge](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![Static Badge](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+  ![Font end](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
