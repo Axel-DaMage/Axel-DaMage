@@ -40,4 +40,4 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
   <img height=260 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
 
-![Static Badge](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
+![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
