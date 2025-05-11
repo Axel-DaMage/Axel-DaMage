@@ -1,5 +1,5 @@
 ![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Status) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Listening&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
-![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
+![D4MAG3_B4NN3R](assets/d4mag3_v2.png)![???](https://hit.yhype.me/github/profile?account_id=178504369)
 <a href="assets/rgbar.gif">
   <img height=2 align="top" src="https://github.com/Axel-DaMage/Axel-DaMage/blob/main/assets/rgbar.gif" />
 </a>
@@ -40,4 +40,4 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
   <img height=280 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
 
-![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
+![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge) [![wakatime](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
