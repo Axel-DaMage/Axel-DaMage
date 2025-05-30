@@ -11,8 +11,8 @@
 ‎ 
 ‎
 ##  (◣ _ ◢)‎
-## ¡Hola! Soy Axel, bienvenido/a a mi pedazo de internet.
-Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
+## ¡Hola! Soy Axel, bienvenido/a a mi github.
+Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack, me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
 ## Sk1lls
   ![Font end](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
@@ -43,5 +43,5 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
 ---
 
 [![wakatime](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
+![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
 ![Counter](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
-![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge) 
