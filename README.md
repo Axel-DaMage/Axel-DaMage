@@ -40,6 +40,8 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack y m
   <img height=350 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
 
+---
+
 ![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge) 
 ![Counter](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
 [![wakatime](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
