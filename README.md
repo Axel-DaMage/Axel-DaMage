@@ -37,7 +37,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 
 ## St4ts
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=340 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
+  <img height=330 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
 <a href="https://leetcode.com/u/D4MAG3/">
   <img height=270 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap" />
