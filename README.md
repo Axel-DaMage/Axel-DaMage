@@ -57,10 +57,6 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 
 ![L33TC0DE](https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap)
 
-<a href="https://monkeytype.com/profile/D4MAG3">
-  <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="M0NK3YTYP3" />
-</a>
-
 ---
 
 > [!NOTE]
