@@ -44,11 +44,12 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 </a>
 
 ![L33TC0DE](https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap)
+
+---
+
 [![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
 ![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
 ![C0UNT3R](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
-
----
 
 > [!NOTE]
 > Necesitas ayuda entendiendo los graficos?
