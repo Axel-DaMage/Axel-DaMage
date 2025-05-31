@@ -37,22 +37,27 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 
 ## St4ts
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=330 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
+  <img height=340 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
-
-![L33TC0DE](https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap)
+<a href="https://leetcode.com/u/D4MAG3/">
+  <img height=340 align="left" src="https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000&locale=es" />
 </a>
- 
 ‎  
 ‎  
 ‎  
 ‎  
 ‎  
+‎    
 ‎  
-‎ 
+‎  
+‎  
+‎  
+
+
 ---
 
 [![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
