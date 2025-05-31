@@ -1,3 +1,6 @@
+<!-- No deberias estar aqui 👁️-->
+<!-- Ya que estas dejame una estrella ;) me esforce bastante en mi ReadMe -->
+
 ![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Estado) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Escuchando&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 <a href="assets/rgbar.gif">
@@ -11,8 +14,11 @@
 ‎ 
 ‎
 ##  (◣ _ ◢)‎
-## ¡Hola! Soy Axel, bienvenido/a a mi github.
-Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack, me apasiona todo lo relacionado a la tecnologia, si te gusta lo que hago no dudes en seguirme en github o instagram.
+## ¡Hola! Soy Axel, bienvenid@ a mi github.
+Soy un estudiante Full-Stack developer, me apasiona todo lo relacionado a la tecnologia, he explorado tantos campos de TI como me fueron posibles y me estableci en Ciberseguridad como mi area principal, si te gusta lo que hago no dudes en seguirme en github o instagram.
+
+A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias redes, si ves que estoy **ONLINE** significa que estoy en vivo desde mi PC.
+
 ## Sk1lls
   ![Font end](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
@@ -34,7 +40,7 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack, me
 
 ## St4ts
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000" />
+  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000&locale=es" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=340 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
@@ -42,6 +48,18 @@ Soy estudiante autonomo de ciberseguridad y desarrollo de software FullStack, me
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
+[![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
 ![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
-![Counter](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
+![C0UNT3R](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
+
+
+---
+
+![L33TC0DE](https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap)
+
+---
+
+> [!NOTE]
+> Necesitas ayuda entendiendo los graficos?
+> - WakaTime: Registra automáticamente cuánto tiempo programas y en qué lenguajes.
+> - LeetCode: Plataforma de entrenamiento para programadores.
