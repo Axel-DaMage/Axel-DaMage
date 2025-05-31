@@ -4,7 +4,7 @@
 ![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Estado) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Escuchando&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
 <a href="https://readme-typing-svg.demolab.com">
-  <img height=80 align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&letterSpacing=1px&duration=1010&pause=1&color=ff0066&background=FFFFFF00&random=true&width=435&lines=Hello+World!;Hlelo+Wrold%3F;Hack+The+World!;Hello+World!;I'm+d4mag3!;" />
+  <img height=80 align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=9&size=30&letterSpacing=1px&duration=1010&pause=1&color=ff0066&background=FFFFFF00&random=true&width=435&lines=Hello+World!;Hlelo+Wrold%3F;Hack+The+World!;Hello+World!;I'm+d4mag3!;" />
 </a>
 ‎
 ‎ 
