@@ -1,5 +1,5 @@
 <!-- No deberias estar aqui 👁️-->
-<!-- Ya que estas dejame una estrella ;) me esforce bastante en mi ReadMe -->
+<!-- Ya que estas dejame una estrella ;) me esforcé bastante en mi ReadMe -->
 
 ![ST4TUS](https://api.statusbadges.me/badge/status/732363812337877072?simple=true&style=for-the-badge&color=ff0066&label=Estado) [![SP0TIFY](https://api.statusbadges.me/badge/spotify/732363812337877072?style=for-the-badge&color=ff0066&label=Escuchando&fallback=404-NOT-FOUND!)](https://api.statusbadges.me/openspotify/732363812337877072)
 ![D4MAG3_B4NN3R](assets/d4mag3_v2.png)
@@ -49,9 +49,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ---
 
 
-[![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=ff0066)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
-![D4MAG3](https://img.shields.io/badge/D4MAG3!-ff0066?style=for-the-badge)
-![C0UNT3R](https://komarev.com/ghpvc/?username=Axel-DaMage&color=ff0066&label=Visitantes&style=for-the-badge)
+[![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=5D00E8)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
+![C0UNT3R](https://komarev.com/ghpvc/?username=Axel-DaMage&color=AE00A7&label=Visitantes&style=for-the-badge)
+![D4MAG3](https://img.shields.io/badge/D4MAG3!-FF0066?style=for-the-badge)
+[![THM](https://img.shields.io/badge/TryHackMe-CE7BAE?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/d4mag3)
+[![HTB](https://img.shields.io/badge/HackTheBox-9CF6F6?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/2207209)
+
+
 
 > [!NOTE]
 > Necesitas ayuda entendiendo los graficos?
