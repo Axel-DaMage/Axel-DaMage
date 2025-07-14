@@ -1,0 +1,22 @@
+:root {
+    --bg-0: transparent; /* Brightest */
+    --bg-1: transparent;
+    --bg-2: transparent;
+    --bg-3: transparent; /* Darkest */
+    --text-0: #ff0066; /* Darkest */
+    --text-1: #ff0066;
+    --text-2: #ff0066;
+    --text-3: #ff0066; /* Brightest */
+    --color-0: #ff0066; /* "Ring" Color */
+    --color-1: #00FF00; /* "Easy" Color */
+    --color-2: #FFF000; /* "Medium" Color */
+    --color-3: #ff0000; /* "Hard" Color */
+}
+
+/* Extra Stuffs. for example, Change the color of LeetCode icon. */
+#C {
+    fill: #ff0066;
+}
+#L {
+    fill: #60a5fa;
+}
