@@ -37,17 +37,17 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 
 ## St4ts
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=320 align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
-</a>
-<a href="https://leetcode.com/u/D4MAG3/">
-  <img height=260 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?theme=wtf&font=Fira%20Code&ext=heatmap" />
+  <img height=290 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000&locale=es" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000&locale=es" />
+  <img height=380 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
+</a>
+<a href="https://leetcode.com/u/D4MAG3/">
+  <img height=170 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?sheets=https://raw.githubusercontent.com/Axel-DaMage/Axel-DaMage/main/assets/leetcolors.css&font=Fira_Code" />
 </a>
 
----
 
+---
 
 [![W4K4T1M3](https://wakatime.com/badge/user/41d66e9c-0225-4447-b9e9-487f24968eef.svg?style=for-the-badge&color=5D00E8)](https://wakatime.com/@41d66e9c-0225-4447-b9e9-487f24968eef)
 ![C0UNT3R](https://komarev.com/ghpvc/?username=Axel-DaMage&color=AE00A7&label=Visitantes&style=for-the-badge)
