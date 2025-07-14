@@ -1,8 +1,8 @@
 :root {
-    --bg-0: transparent; /* Brightest */
-    --bg-1: transparent;
-    --bg-2: transparent;
-    --bg-3: transparent; /* Darkest */
+    --bg-0: #00000000; /* Brightest */
+    --bg-1: #00000084;
+    --bg-2: #00000000;
+    --bg-3: #00000000; /* Darkest */
     --text-0: #ff0066; /* Darkest */
     --text-1: #ff0066;
     --text-2: #ff0066;
