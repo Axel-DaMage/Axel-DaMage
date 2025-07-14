@@ -43,7 +43,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
   <img height=380 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
 </a>
 <a href="https://leetcode.com/u/D4MAG3/">
-  <img height=170 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?sheets=https://raw.githubusercontent.com/Axel-DaMage/Axel-DaMage/main/assets/leetcolors.css&font=Fira_Code" />
+  <img height=150 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?sheets=https://raw.githubusercontent.com/Axel-DaMage/Axel-DaMage/main/assets/leetcolors.css&font=Fira_Code" />
 </a>
 
 
