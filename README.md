@@ -11,7 +11,7 @@
 ‎ 
 ‎
 ##  (◣ _ ◢)‎
-## ¡Hola! Soy Axel, bienvenid@ a mi github.
+## ¡Hola! Soy Axel, bienvenido a mi github.
 Soy un estudiante Full-Stack developer, me apasiona todo lo relacionado a la tecnologia, he explorado tantos campos de TI como me fueron posibles y me estableci en Ciberseguridad como mi area principal, si te gusta lo que hago no dudes en seguirme en github o instagram.
 
 A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias redes, si ves que estoy **ONLINE** significa que estoy en vivo desde mi PC.
