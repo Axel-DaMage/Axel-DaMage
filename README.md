@@ -29,7 +29,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
   <img height=113 align="top" src="https://skillicons.dev/icons?i=aws,mysql,git,github&perline=2" />
 </a>
 <a href="https://skillicons.dev">
-  <img height=52 align="top" src="https://skillicons.dev/icons?i=idea,vscode&perline=2" />
+  <img height=113 align="top" src="https://skillicons.dev/icons?i=idea,vscode,vim,&perline=2" />
 </a>
 <a href="https://skillicons.dev">
   <img height=112 align="top" src="https://skillicons.dev/icons?i=linux,arch,mint,kali,windows&perline=3" />
