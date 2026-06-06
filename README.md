@@ -38,19 +38,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-**🐱 Mis datos de GitHub** 
-
-> 📦 ? Almacenamiento de GitHub utilizado 
- > 
-> 🏆 968 Contribuciones durante el año 2026
- > 
-> 💼 Abierto a contratación
- > 
-> 📜 22 Repositorios Públicos 
- > 
-> 🔑 0 Repositorios Privados 
- > 
-**Programo principalmente en Java** 
+**Lenguajes principales:**
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
@@ -59,15 +47,6 @@ Python                   5 repos             ████░░░░░░░�
 JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
-
-
-
-**Cronología**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Axel-DaMage/Axel-DaMage/main/assets/bar_graph.png)
-
-
- Last Updated on 06/06/2026 18:58:46 UTC
 <!--END_SECTION:ST4TS-->
 
 <a href="https://leetcode.com/u/D4MAG3/">
