@@ -36,13 +36,10 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 </a>
 
 ## St4ts
-<!-- Comentado debido a error de repositorio padre.
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=290 align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-DaMage&layout=donut&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000&locale=es" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=350 align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=D4MAG3_WIZ4RD&layout=compact&hide=Other,desktop&title_color=ff0066&bg_color=00000000&text_color=ff0066&border_color=00000000">
-</a> -->
+
+<!--START_SECTION:ST4TS-->
+<!--END_SECTION:ST4TS-->
+
 <a href="https://leetcode.com/u/D4MAG3/">
   <img height=150 align="top" src="https://leetcard.jacoblin.cool/D4MAG3?sheets=https://raw.githubusercontent.com/Axel-DaMage/Axel-DaMage/main/assets/leetcolors.css&font=Fira_Code" />
 </a>
