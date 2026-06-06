@@ -32,6 +32,9 @@ jobs:
           SHOW_SHORT_INFO: False
           SHOW_LOC_CHART: False
           SHOW_UPDATED_DATE: False
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
       - name: Fix section titles
         run: |
           sed -i '/^<!--START_SECTION:ST4TS-->/,/^<!--END_SECTION:ST4TS-->/s/^\*\*Programo principalmente en .*\*\*/**Lenguajes principales:**/' README.md
