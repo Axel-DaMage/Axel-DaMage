@@ -41,12 +41,12 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Lunes** 
 
 ```text
-Lunes                    1199 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Lunes                    1199 commits        ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
 Martes                   1066 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Miércoles                883 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Miércoles                883 commits         █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
 Jueves                   509 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
 Viernes                  445 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sábado                   263 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Sábado                   264 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 Domingo                  504 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
 ```
 
