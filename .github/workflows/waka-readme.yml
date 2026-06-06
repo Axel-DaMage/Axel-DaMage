@@ -35,10 +35,15 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
+          ref: main
       - name: Fix section titles
         run: |
-          sed -i '/^<!--START_SECTION:ST4TS-->/,/^<!--END_SECTION:ST4TS-->/s/^\*\*Programo principalmente en .*\*\*/**Lenguajes principales:**/' README.md
+          sed -i 's/\*\*Programo principalmente en .*\*\*/**Lenguajes principales:**/' README.md
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Fix stats section titles" && git push)
+          if ! git diff --quiet --cached; then
+            git commit -m "Fix stats section titles"
+            git pull --rebase origin main
+            git push
+          fi
