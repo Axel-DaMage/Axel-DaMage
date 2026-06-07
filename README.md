@@ -38,7 +38,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
