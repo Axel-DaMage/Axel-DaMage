@@ -64,7 +64,7 @@ Sin actividad registrada esta semana
 Sin actividad registrada esta semana
 ```
 
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
