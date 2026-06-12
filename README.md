@@ -41,13 +41,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Lunes** 
 
 ```text
-Lunes                    1223 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Martes                   1122 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Miércoles                893 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Jueves                   523 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Viernes                  449 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Sábado                   267 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Domingo                  533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Lunes                    1248 commits        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Martes                   1176 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Miércoles                903 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Jueves                   537 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Viernes                  456 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Sábado                   269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Domingo                  553 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 ```
 
 
@@ -64,7 +64,7 @@ Sin actividad registrada esta semana
 Sin actividad registrada esta semana
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
