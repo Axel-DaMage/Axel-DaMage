@@ -41,13 +41,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Viernes** 
 
 ```text
-Lunes                    1626 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Martes                   746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Miércoles                1412 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Jueves                   436 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Viernes                  2045 commits        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Sábado                   1438 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Domingo                  1801 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Lunes                    1662 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Martes                   746 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Miércoles                1454 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Jueves                   491 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Viernes                  2136 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+Sábado                   1504 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+Domingo                  1891 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 
@@ -64,14 +64,14 @@ Sin actividad registrada esta semana
 Sin actividad registrada esta semana
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
-Java                     10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   32.35 % 
+TypeScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
