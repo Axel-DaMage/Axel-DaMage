@@ -51,19 +51,6 @@ Domingo                  1588 commits        █████░░░░░░�
 ```
 
 
-📊 **Esta semana me dediqué a** 
-
-```text
-💬 Lenguajes: 
-Sin actividad registrada esta semana
-
-🔥 Editores: 
-Sin actividad registrada esta semana
-
-💻 Sistema Operativo: 
-Sin actividad registrada esta semana
-```
-
 **Lenguajes principales:** 
 
 ```text
