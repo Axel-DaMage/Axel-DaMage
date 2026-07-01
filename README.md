@@ -38,7 +38,20 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-**Lenguajes principales:** 
+📅 **Soy más productivo los Viernes** 
+
+```text
+Lunes                    1569 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Martes                   775 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Miércoles                1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Jueves                   497 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Viernes                  1786 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Sábado                   1251 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Domingo                  1626 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+```
+
+
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
