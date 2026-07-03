@@ -43,15 +43,15 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ```text
 Lunes                    1569 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
 Martes                   775 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Miércoles                1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Jueves                   497 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Miércoles                1328 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Jueves                   500 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 Viernes                  1786 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Sábado                   1251 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Domingo                  1626 commits        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+Domingo                  1626 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
 ```
 
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   31.43 % 
