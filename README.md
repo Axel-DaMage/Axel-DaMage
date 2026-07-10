@@ -51,7 +51,7 @@ Domingo                  2715 commits        ██████░░░░░�
 ```
 
 
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
