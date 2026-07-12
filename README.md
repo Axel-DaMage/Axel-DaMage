@@ -38,14 +38,27 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-**Lenguajes principales:** 
+📅 **Soy más productivo los Domingo** 
 
 ```text
-Java                     11 repos            ████████░░░░░░░░░░░░░░░░░   30.56 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Lunes                    2075 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Martes                   910 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Miércoles                1836 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Jueves                   748 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Viernes                  2904 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Sábado                   2209 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Domingo                  3244 commits        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+```
+
+
+**Programo principalmente en Java** 
+
+```text
+Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
+TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
