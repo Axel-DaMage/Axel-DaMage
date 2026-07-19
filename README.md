@@ -46,12 +46,12 @@ Martes                   968 commits         ██░░░░░░░░░�
 Miércoles                2126 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 Jueves                   782 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 Viernes                  2972 commits        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Sábado                   2267 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Sábado                   2268 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Domingo                  3330 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 ```
 
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   29.73 % 
