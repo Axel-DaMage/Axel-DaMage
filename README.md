@@ -38,14 +38,14 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
-Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
