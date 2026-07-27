@@ -38,20 +38,46 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-152%20hrs%2046%20mins-blue?style=flat)
+
 📅 **Soy más productivo los Domingo** 
 
 ```text
-Lunes                    2470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Martes                   1766 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Miércoles                3760 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Jueves                   852 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Viernes                  3204 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Sábado                   2586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Domingo                  3986 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Lunes                    2651 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Martes                   1701 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Miércoles                2945 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Jueves                   827 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Viernes                  3159 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Sábado                   2527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Domingo                  4284 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 ```
 
 
-**Lenguajes principales:** 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 3 mins (100.0%)
+
+✍️ 4,994 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 5,827,695 Input Tokens, 265,390 Output Tokens
+
+💵 $12.99 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 244 AI Prompts
+
+Deepseek                 3,305 lines         ████████████████████░░░░░   78.78 % 
+Gemini                   824 lines           █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Opus                     66 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 1,519 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
