@@ -40,7 +40,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 <!--START_SECTION:ST4TS-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%201%20min-blue?style=flat)
 
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
