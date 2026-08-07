@@ -38,45 +38,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-164%20hrs%2028%20mins-blue?style=for-the-badge)
-
-📅 **Soy más productivo los Martes** 
-
-```text
-Lunes                    5366 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Martes                   14847 commits       █████████░░░░░░░░░░░░░░░░   34.05 % 
-Miércoles                8483 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Jueves                   4751 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Viernes                  2947 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Sábado                   1571 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Domingo                  5642 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 42 mins (100.0%)
-
-✍️ 1,325 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 860,972 Input Tokens, 48,022 Output Tokens
-
-💵 $2.76 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 61 AI Prompts
-
-Deepseek                 1,016 lines         ████████████████████████░   97.79 % 
-Gemini                   23 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,093 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
