@@ -43,40 +43,40 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Martes** 
 
 ```text
-Lunes                    5133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Martes                   14752 commits       █████████░░░░░░░░░░░░░░░░   35.82 % 
-Miércoles                8241 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Jueves                   4687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Viernes                  2272 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Sábado                   1107 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Domingo                  4995 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Lunes                    5097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Martes                   14759 commits       █████████░░░░░░░░░░░░░░░░   36.16 % 
+Miércoles                8205 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Jueves                   4669 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Viernes                  2262 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Sábado                   980 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Domingo                  4848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 58 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 37 mins (100.0%)
 
-✍️ 1,481 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,443 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,202,134 Input Tokens, 74,168 Output Tokens
+🔤 1,073,709 Input Tokens, 67,123 Output Tokens
 
-💵 $4.40 Estimated AI Cost This Week
+💵 $4.29 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 55 AI Prompts
+🧠 14 AI Sessions, 30 AI Prompts
 
-Deepseek                 1,164 lines         █████████████████████████   98.06 % 
-Gemini                   23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Deepseek                 1,160 lines         █████████████████████████   99.40 % 
+Gemini                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,684 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 2,823 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
