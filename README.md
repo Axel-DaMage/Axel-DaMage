@@ -75,7 +75,7 @@ Deepseek                 148 lines           ███████████�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
