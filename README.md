@@ -43,39 +43,39 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Martes** 
 
 ```text
-Lunes                    5074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Martes                   14756 commits       █████████░░░░░░░░░░░░░░░░   36.44 % 
-Miércoles                8181 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Jueves                   4657 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Viernes                  2184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Sábado                   894 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-Domingo                  4749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Lunes                    5073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Martes                   14816 commits       █████████░░░░░░░░░░░░░░░░   36.53 % 
+Miércoles                8184 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Jueves                   4663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Viernes                  2184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Sábado                   894 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Domingo                  4749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 37 mins (100.0%)
 
 ✍️ 156 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 628,039 Input Tokens, 31,727 Output Tokens
+🔤 588,512 Input Tokens, 30,847 Output Tokens
 
-💵 $2.19 Estimated AI Cost This Week
+💵 $2.05 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 17 AI Prompts
+🧠 10 AI Sessions, 15 AI Prompts
 
 Deepseek                 148 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,721 characters per prompt
+📚 Verbose Prompter — average 1,941 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
