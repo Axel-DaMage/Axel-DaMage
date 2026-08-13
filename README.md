@@ -1,3 +1,5 @@
+
+
 <!-- No deberias estar aqui 👁️-->
 <!-- Ya que estas dejame una estrella ;) me esforcé bastante en mi ReadMe -->
 
@@ -17,7 +19,7 @@ Soy un estudiante Full-Stack developer, me apasiona todo lo relacionado a la tec
 A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias redes, si ves que estoy **ONLINE** significa que estoy en vivo desde mi PC.
 
 ## Sk1lls
-  ![Font end](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
+  ![Front end](https://img.shields.io/badge/Front%20endㅤ-ff9999?style=for-the-badge)![Back end](https://img.shields.io/badge/ㅤBack%20endㅤ-ffff99?style=for-the-badge)![Cloud](https://img.shields.io/badge/ㅤㅤCloudㅤㅤㅤ-99ff99?style=for-the-badge)![IDE](https://img.shields.io/badge/ㅤㅤㅤIDEㅤㅤㅤ-99ffff?style=for-the-badge)![OS](https://img.shields.io/badge/ㅤㅤㅤㅤㅤOSㅤㅤㅤㅤㅤㅤ-9999ff?style=for-the-badge)
 
 <a href="https://skillicons.dev">
   <img height=113 align="top" src="https://skillicons.dev/icons?i=html,css,js,md&perline=2" />
