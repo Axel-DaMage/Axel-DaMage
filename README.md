@@ -45,39 +45,39 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Martes** 
 
 ```text
-Lunes                    5073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Martes                   14816 commits       █████████░░░░░░░░░░░░░░░░   36.53 % 
-Miércoles                8184 commits        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Jueves                   4663 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Viernes                  2184 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Sábado                   894 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Domingo                  4749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Lunes                    5157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Martes                   15380 commits       █████████░░░░░░░░░░░░░░░░   36.29 % 
+Miércoles                8555 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Jueves                   5074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Viernes                  2406 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Sábado                   928 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Domingo                  4875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 17 mins (100.0%)
 
-✍️ 156 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 588,512 Input Tokens, 30,847 Output Tokens
+🔤 196,463 Input Tokens, 5,285 Output Tokens
 
-💵 $2.05 Estimated AI Cost This Week
+💵 $0.53 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 15 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-Deepseek                 148 lines           █████████████████████████   100.00 % 
+Deepseek                 8 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,941 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,208 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
