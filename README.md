@@ -42,49 +42,14 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 <!--START_SECTION:ST4TS-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%205%20mins-blue?style=for-the-badge)
 
-📅 **Soy más productivo los Martes** 
+**Programo principalmente en Java** 
 
 ```text
-Lunes                    5157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Martes                   15380 commits       █████████░░░░░░░░░░░░░░░░   36.29 % 
-Miércoles                8555 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Jueves                   5074 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Viernes                  2406 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Sábado                   928 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Domingo                  4875 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-```
-
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 17 mins (100.0%)
-
-✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 196,463 Input Tokens, 5,285 Output Tokens
-
-💵 $0.53 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 6 AI Prompts
-
-Deepseek                 8 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,208 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
-**Lenguajes principales:** 
-
-```text
-Java                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
