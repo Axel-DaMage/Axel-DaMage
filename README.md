@@ -42,14 +42,33 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 <!--START_SECTION:ST4TS-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%205%20mins-blue?style=for-the-badge)
 
-**Lenguajes principales:** 
+📅 **Soy más productivo los Lunes** 
 
 ```text
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Lunes                    3129 commits        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Martes                   1393 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Miércoles                1567 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Jueves                   850 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Viernes                  795 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Sábado                   836 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Domingo                  2331 commits        █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**Programo principalmente en Java** 
+
+```text
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+TypeScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
