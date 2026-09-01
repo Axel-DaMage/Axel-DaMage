@@ -61,7 +61,7 @@ Domingo                  4241 commits        ████░░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en TypeScript** 
 
 ```text
 TypeScript               13 repos            ███████░░░░░░░░░░░░░░░░░░   27.08 % 
