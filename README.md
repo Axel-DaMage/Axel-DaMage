@@ -61,7 +61,7 @@ Domingo                  4103 commits        █████░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Programo principalmente en Java** 
+**Lenguajes principales:** 
 
 ```text
 Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
