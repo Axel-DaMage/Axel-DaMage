@@ -45,13 +45,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Domingo** 
 
 ```text
-Lunes                    3546 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Martes                   4893 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Miércoles                3420 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Jueves                   3936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Viernes                  3992 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Sábado                   3544 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Domingo                  5168 commits        █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+Lunes                    3552 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Martes                   4904 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Miércoles                3476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Jueves                   3946 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Viernes                  4022 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Sábado                   3568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Domingo                  5192 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 ```
 
 
@@ -61,14 +61,14 @@ Domingo                  5168 commits        █████░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
-Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
