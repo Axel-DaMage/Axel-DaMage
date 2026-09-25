@@ -45,13 +45,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Domingo** 
 
 ```text
-Lunes                    3545 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Martes                   4893 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Miércoles                3469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Jueves                   3953 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Viernes                  3992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Sábado                   3543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Domingo                  5168 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Lunes                    3565 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Martes                   4897 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Miércoles                3503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Jueves                   3974 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Viernes                  4022 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Sábado                   3543 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Domingo                  5242 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 ```
 
 
@@ -61,14 +61,14 @@ Domingo                  5168 commits        █████░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Luau                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
