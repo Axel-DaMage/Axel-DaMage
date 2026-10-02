@@ -45,13 +45,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Domingo** 
 
 ```text
-Lunes                    3035 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Martes                   2977 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Miércoles                2665 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Jueves                   2469 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Viernes                  2773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Sábado                   2360 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Domingo                  4404 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Lunes                    2876 commits        █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Martes                   1484 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Miércoles                1753 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Jueves                   1305 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Viernes                  1981 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Sábado                   1710 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Domingo                  3815 commits        ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
 ```
 
 
@@ -61,7 +61,7 @@ Domingo                  4404 commits        █████░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
