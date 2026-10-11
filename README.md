@@ -42,16 +42,16 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 <!--START_SECTION:ST4TS-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%205%20mins-blue?style=for-the-badge)
 
-📅 **Soy más productivo los Domingo** 
+📅 **Soy más productivo los Martes** 
 
 ```text
-Lunes                    3704 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Martes                   2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Miércoles                2149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Jueves                   1947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Viernes                  2453 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Sábado                   2203 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Domingo                  4367 commits        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Lunes                    1777 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Martes                   3378 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Miércoles                2239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Jueves                   2793 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Viernes                  3224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Sábado                   2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Domingo                  3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 ```
 
 
@@ -61,7 +61,7 @@ Domingo                  4367 commits        ██████░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
