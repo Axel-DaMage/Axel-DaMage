@@ -42,16 +42,16 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 <!--START_SECTION:ST4TS-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%205%20mins-blue?style=for-the-badge)
 
-📅 **Soy más productivo los Martes** 
+📅 **Soy más productivo los Viernes** 
 
 ```text
-Lunes                    1777 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Martes                   3378 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Miércoles                2239 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Jueves                   2793 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Viernes                  3224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-Sábado                   2276 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Domingo                  3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Lunes                    1378 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Martes                   1715 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Miércoles                1416 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Jueves                   1710 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Viernes                  2166 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Sábado                   1296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Domingo                  2094 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 ```
 
 
@@ -61,13 +61,13 @@ Domingo                  3007 commits        ████░░░░░░░�
 No AI Coding Activity Tracked This Week
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 Ruby                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 ```
 
