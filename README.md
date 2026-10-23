@@ -40,7 +40,7 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-168%20hrs%205%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2037%20mins-blue?style=for-the-badge)
 
 📅 **Soy más productivo los Viernes** 
 
@@ -58,10 +58,27 @@ Domingo                  3101 commits        ████░░░░░░░�
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 hrs 31 mins (100.0%)
+
+✍️ 681 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 1,470,844 Input Tokens, 163,469 Output Tokens
+
+💵 $99.77 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 28 AI Prompts
+
+GLM                      562 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 352 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
