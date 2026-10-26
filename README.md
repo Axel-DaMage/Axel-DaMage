@@ -45,13 +45,13 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 📅 **Soy más productivo los Viernes** 
 
 ```text
-Lunes                    2211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Martes                   2516 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Miércoles                2490 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Jueves                   2787 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-Viernes                  3286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Sábado                   1976 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Domingo                  3197 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Lunes                    2121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Martes                   2294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+Miércoles                2338 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Jueves                   2605 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Viernes                  3126 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Sábado                   1828 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Domingo                  3022 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 ```
 
 
@@ -78,7 +78,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
