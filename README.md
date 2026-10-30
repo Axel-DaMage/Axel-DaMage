@@ -40,46 +40,46 @@ A continuacion puedes ver mi actividad reciente y estadisticas dentro de varias 
 ## St4ts
 
 <!--START_SECTION:ST4TS-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-178%20hrs%2035%20mins-blue?style=for-the-badge)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-181%20hrs%2058%20mins-blue?style=for-the-badge)
 
 📅 **Soy más productivo los Jueves** 
 
 ```text
-Lunes                    2213 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Martes                   2430 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Miércoles                2702 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Jueves                   3325 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Viernes                  3144 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Sábado                   1828 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Domingo                  3022 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Lunes                    2217 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Martes                   2432 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Miércoles                2722 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Jueves                   3341 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Viernes                  3194 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Sábado                   1828 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Domingo                  3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 8 hrs 21 mins (100.0%)
 
-✍️ 3,739 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,469 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,537,872 Input Tokens, 548,562 Output Tokens
+🔤 5,895,821 Input Tokens, 516,140 Output Tokens
 
-💵 $374.56 Estimated AI Cost This Week
+💵 $440.68 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 73 AI Prompts
+🧠 26 AI Sessions, 66 AI Prompts
 
-GLM                      3,530 lines         █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GLM                      4,254 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 438 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 404 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**Lenguajes principales:** 
+**Programo principalmente en Java** 
 
 ```text
 Java                     12 repos            ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
